@@ -7,7 +7,6 @@ public class Solution {
         int a = scan.nextInt();
         // Complete this line
         // Complete this line
-
         System.out.println(a);
         // Complete this line
         // Complete this line
