@@ -1,4 +1,5 @@
 # HackerRank C++ Solutions
+https://www.hackerrank.com/profile/mourad_smail
 
 A collection of C++ solutions to [HackerRank](https://www.hackerrank.com/) problems covering core language features and the Standard Template Library (STL).
 
